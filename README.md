@@ -1,5 +1,5 @@
 # Checklist-Website
-Code for the CDV electric motor installation and safety checklist.
+Code for the CDV electric motor installation and safety checklist. Not for Brazilians.
 
 Fuck off Caio!!!!!
 
